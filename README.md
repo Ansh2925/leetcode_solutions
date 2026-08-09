@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Ansh2925/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/Ansh2925/leetcode_solutions/tree/master/0771-jewels-and-stones) |
+## String
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/Ansh2925/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
