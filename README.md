@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Ansh2925/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ansh2925/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ansh2925/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ansh2925/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Ansh2925/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Ansh2925/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/Ansh2925/leetcode_solutions/tree/master/0771-jewels-and-stones) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ansh2925/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Simulation
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ansh2925/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ansh2925/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
 | ------- |
