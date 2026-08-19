@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Ansh2925/leetcode_solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Ansh2925/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Ansh2925/leetcode_solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Ansh2925/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Ansh2925/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Ansh2925/leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Ansh2925/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ansh2925/leetcode_solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Ansh2925/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Ansh2925/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/Ansh2925/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ansh2925/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ansh2925/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Ansh2925/leetcode_solutions/tree/master/0392-is-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
