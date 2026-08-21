@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Ansh2925/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ansh2925/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ansh2925/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Ansh2925/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ansh2925/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ansh2925/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Ansh2925/leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Ansh2925/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ansh2925/leetcode_solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ansh2925/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Ansh2925/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Ansh2925/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/Ansh2925/leetcode_solutions/tree/master/0771-jewels-and-stones) |
@@ -102,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Ansh2925/leetcode_solutions/tree/master/0231-power-of-two) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ansh2925/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ansh2925/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
