@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ansh2925/leetcode_solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/Ansh2925/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Ansh2925/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0561-array-partition](https://github.com/Ansh2925/leetcode_solutions/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Ansh2925/leetcode_solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Ansh2925/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Ansh2925/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ansh2925/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ansh2925/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Ansh2925/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0561-array-partition](https://github.com/Ansh2925/leetcode_solutions/tree/master/0561-array-partition) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ansh2925/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
@@ -197,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Ansh2925/leetcode_solutions/tree/master/0836-rectangle-overlap) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Ansh2925/leetcode_solutions/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Ansh2925/leetcode_solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
