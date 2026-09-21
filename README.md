@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ansh2925/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ansh2925/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Ansh2925/leetcode_solutions/tree/master/0771-jewels-and-stones) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Ansh2925/leetcode_solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ansh2925/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ansh2925/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ansh2925/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Ansh2925/leetcode_solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Ansh2925/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0922-sort-array-by-parity-ii](https://github.com/Ansh2925/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Ansh2925/leetcode_solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Ansh2925/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Ansh2925/leetcode_solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ansh2925/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Ansh2925/leetcode_solutions/tree/master/0561-array-partition) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Ansh2925/leetcode_solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
