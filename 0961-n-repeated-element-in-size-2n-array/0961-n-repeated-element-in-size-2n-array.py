@@ -3,8 +3,8 @@ class Solution:
         freq = {}
         for num in nums:
             if num in freq:
-                freq[num] += 1
+                return num
             else:
                 freq[num] = 1
 
-        return max(freq, key= freq.get)
+
