@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ansh2925/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Ansh2925/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/Ansh2925/leetcode_solutions/tree/master/0836-rectangle-overlap) |
+| [2235-add-two-integers](https://github.com/Ansh2925/leetcode_solutions/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ansh2925/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ansh2925/leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ansh2925/leetcode_solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
