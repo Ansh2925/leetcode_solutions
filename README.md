@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Ansh2925/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/Ansh2925/leetcode_solutions/tree/master/0836-rectangle-overlap) |
 | [2235-add-two-integers](https://github.com/Ansh2925/leetcode_solutions/tree/master/2235-add-two-integers) |
+| [2485-find-the-pivot-integer](https://github.com/Ansh2925/leetcode_solutions/tree/master/2485-find-the-pivot-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ansh2925/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ansh2925/leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ansh2925/leetcode_solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Ansh2925/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Ansh2925/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Ansh2925/leetcode_solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2485-find-the-pivot-integer](https://github.com/Ansh2925/leetcode_solutions/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/Ansh2925/leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ansh2925/leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Bit Manipulation
