@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ansh2925/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ansh2925/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Ansh2925/leetcode_solutions/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Ansh2925/leetcode_solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ansh2925/leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ansh2925/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ansh2925/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ansh2925/leetcode_solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Ansh2925/leetcode_solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Ansh2925/leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Ansh2925/leetcode_solutions/tree/master/0231-power-of-two) |
@@ -242,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ansh2925/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ansh2925/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Ansh2925/leetcode_solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
