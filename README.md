@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ansh2925/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/Ansh2925/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Ansh2925/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/Ansh2925/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/Ansh2925/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Ansh2925/leetcode_solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ansh2925/leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Ansh2925/leetcode_solutions/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Ansh2925/leetcode_solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Ansh2925/leetcode_solutions/tree/master/0724-find-pivot-index) |
+| [0881-boats-to-save-people](https://github.com/Ansh2925/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/Ansh2925/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ansh2925/leetcode_solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Ansh2925/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ansh2925/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Ansh2925/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Ansh2925/leetcode_solutions/tree/master/0561-array-partition) |
+| [0881-boats-to-save-people](https://github.com/Ansh2925/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/Ansh2925/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ansh2925/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Ansh2925/leetcode_solutions/tree/master/0561-array-partition) |
+| [0881-boats-to-save-people](https://github.com/Ansh2925/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 ## Counting Sort
 |  |
 | ------- |
@@ -248,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Ansh2925/leetcode_solutions/tree/master/0078-subsets) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Ansh2925/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
