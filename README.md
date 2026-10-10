@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Ansh2925/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Ansh2925/leetcode_solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Ansh2925/leetcode_solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ansh2925/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Ansh2925/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Ansh2925/leetcode_solutions/tree/master/0231-power-of-two) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ansh2925/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Ansh2925/leetcode_solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Ansh2925/leetcode_solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Ansh2925/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ansh2925/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ansh2925/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ansh2925/leetcode_solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Ansh2925/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/Ansh2925/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ansh2925/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ansh2925/leetcode_solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Ansh2925/leetcode_solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Ansh2925/leetcode_solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Ansh2925/leetcode_solutions/tree/master/0191-number-of-1-bits) |
