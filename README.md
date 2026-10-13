@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ansh2925/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ansh2925/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ansh2925/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ansh2925/leetcode_solutions/tree/master/0027-remove-element) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ansh2925/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ansh2925/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ansh2925/leetcode_solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ansh2925/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ansh2925/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/Ansh2925/leetcode_solutions/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/Ansh2925/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ansh2925/leetcode_solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
