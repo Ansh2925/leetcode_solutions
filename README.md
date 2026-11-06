@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Ansh2925/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Ansh2925/leetcode_solutions/tree/master/0836-rectangle-overlap) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ansh2925/leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ansh2925/leetcode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2235-add-two-integers](https://github.com/Ansh2925/leetcode_solutions/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/Ansh2925/leetcode_solutions/tree/master/2485-find-the-pivot-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ansh2925/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ansh2925/leetcode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ansh2925/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ansh2925/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ansh2925/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ansh2925/leetcode_solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Ansh2925/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ansh2925/leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ansh2925/leetcode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1991-find-the-middle-index-in-array](https://github.com/Ansh2925/leetcode_solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ansh2925/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ansh2925/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Ansh2925/leetcode_solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Ansh2925/leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Ansh2925/leetcode_solutions/tree/master/0231-power-of-two) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ansh2925/leetcode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Ansh2925/leetcode_solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Ansh2925/leetcode_solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Recursion
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Ansh2925/leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Ansh2925/leetcode_solutions/tree/master/0216-combination-sum-iii) |
 | [1079-letter-tile-possibilities](https://github.com/Ansh2925/leetcode_solutions/tree/master/1079-letter-tile-possibilities) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ansh2925/leetcode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Timsort
 |  |
 | ------- |
@@ -334,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Ansh2925/leetcode_solutions/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ansh2925/leetcode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
