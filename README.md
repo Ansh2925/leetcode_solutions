@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Ansh2925/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/Ansh2925/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ansh2925/leetcode_solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1267-count-servers-that-communicate](https://github.com/Ansh2925/leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 | [1480-running-sum-of-1d-array](https://github.com/Ansh2925/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Ansh2925/leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ansh2925/leetcode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ansh2925/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1079-letter-tile-possibilities](https://github.com/Ansh2925/leetcode_solutions/tree/master/1079-letter-tile-possibilities) |
+| [1267-count-servers-that-communicate](https://github.com/Ansh2925/leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 | [3467-transform-array-by-parity](https://github.com/Ansh2925/leetcode_solutions/tree/master/3467-transform-array-by-parity) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -345,4 +347,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ansh2925/leetcode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Ansh2925/leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Ansh2925/leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Ansh2925/leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Ansh2925/leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
