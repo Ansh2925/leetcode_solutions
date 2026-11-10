@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Ansh2925/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Ansh2925/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Ansh2925/leetcode_solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Ansh2925/leetcode_solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Ansh2925/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Ansh2925/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Ansh2925/leetcode_solutions/tree/master/0836-rectangle-overlap) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Ansh2925/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Ansh2925/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Ansh2925/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Ansh2925/leetcode_solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Ansh2925/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ansh2925/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ansh2925/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
