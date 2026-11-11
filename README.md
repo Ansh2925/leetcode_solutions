@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/Ansh2925/leetcode_solutions/tree/master/1079-letter-tile-possibilities) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ansh2925/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ansh2925/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Ansh2925/leetcode_solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ansh2925/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ansh2925/leetcode_solutions/tree/master/0231-power-of-two) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ansh2925/leetcode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Ansh2925/leetcode_solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Ansh2925/leetcode_solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Ansh2925/leetcode_solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Ansh2925/leetcode_solutions/tree/master/0216-combination-sum-iii) |
 | [1079-letter-tile-possibilities](https://github.com/Ansh2925/leetcode_solutions/tree/master/1079-letter-tile-possibilities) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ansh2925/leetcode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Ansh2925/leetcode_solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Timsort
 |  |
 | ------- |
