@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Ansh2925/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [1079-letter-tile-possibilities](https://github.com/Ansh2925/leetcode_solutions/tree/master/1079-letter-tile-possibilities) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ansh2925/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Ansh2925/leetcode_solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ansh2925/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Ansh2925/leetcode_solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ansh2925/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Ansh2925/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/Ansh2925/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ansh2925/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Ansh2925/leetcode_solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ansh2925/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ansh2925/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
